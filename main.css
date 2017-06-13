@@ -1,12 +1,17 @@
 
 .textbox {
-    width: 25%;
-    height: 10%;
+
+    margin-top: 2px;
+    width: 30%;
     display: inline-block;
     background-color: deepskyblue;
     color: aliceblue;
+    white-space: normal;
 }
 
 .center {
-    text-align: left;
+    text-align: center;
+    white-space: nowrap;
 }
+
+
